@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Lexicon of Biochemical Reactions: Cofactors Formed from Vitamin B12'
+uid: 1e1e07f7-c214-ea46-6c92-2e3a76103bae
+video_files:
+  archive_url: https://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_JoAnne_B12Cofactors_300k.mp4
+  video_captions_file: /courses/5-07sc-biological-chemistry-i-fall-2013/fcfbe25eebeb5d1fbd8761abb99b62ab_56vQ0S2eAjw.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/56vQ0S2eAjw/default.jpg
+  video_transcript_file: /courses/5-07sc-biological-chemistry-i-fall-2013/695fdeb4e62e68c58cddc8f68f6267c2_56vQ0S2eAjw.pdf
+video_metadata:
+  youtube_id: 56vQ0S2eAjw
+---
