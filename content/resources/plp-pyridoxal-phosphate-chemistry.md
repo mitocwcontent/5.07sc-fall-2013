@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: PLP (Pyridoxal Phosphate) Chemistry
+uid: 4135524f-0ca9-aaf9-155e-965fe190d1cb
+video_files:
+  archive_url: https://ia601507.us.archive.org/31/items/MIT5.07SCF13/MIT5_07SCF13_Hands-PLP_300k.mp4
+  video_captions_file: /courses/5-07sc-biological-chemistry-i-fall-2013/a937b9303a205ce6a67c2d2ac9545a2b_61ZVXmh6ae0.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/61ZVXmh6ae0/default.jpg
+  video_transcript_file: /courses/5-07sc-biological-chemistry-i-fall-2013/2f6a464545534fcdb3a27ab61f46ac21_61ZVXmh6ae0.pdf
+video_metadata:
+  youtube_id: 61ZVXmh6ae0
+---

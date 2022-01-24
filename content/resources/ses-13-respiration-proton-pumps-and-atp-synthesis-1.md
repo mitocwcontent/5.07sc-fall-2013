@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Ses 13: Respiration: Proton Pumps and ATP Synthesis'
+uid: 56476d6c-d821-7245-8c26-de41cda0dec9
+video_files:
+  archive_url: http://archive.org/download/MIT5.07SCF13/MIT5_07SCF13_JE-Ses13_300k.mp4
+  video_captions_file: /courses/5-07sc-biological-chemistry-i-fall-2013/dfa272f2d1295573a0f3ad687d755796_h20EdXcopeY.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/h20EdXcopeY/default.jpg
+  video_transcript_file: /courses/5-07sc-biological-chemistry-i-fall-2013/89aba38380014f71769e0df4a3e1bdf4_h20EdXcopeY.pdf
+video_metadata:
+  youtube_id: h20EdXcopeY
+---
